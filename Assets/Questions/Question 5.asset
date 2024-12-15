@@ -15,7 +15,8 @@ MonoBehaviour:
   Question: "\uD06C\uB9AC\uC2A4\uB9C8\uC2A4\uC5D0 \uC0B0\uD0C0\uAC00 \uAC00\uC7A5
     \uC88B\uC544\uD558\uB294 \uAC8C\uC784\uC740 \uBB34\uC5C7\uC778\uAC00\uC694?"
   answers:
-  - 
-  - 
-  - 
-  - 
+  - "\uCCB4\uC2A4"
+  - "\uC120\uBB3C\uCC3E\uAE30"
+  - "\uD3EC\uCEE4"
+  - "\uBAA8\uB178\uD3F4\uB9AC"
+  correctAnswerIndex: 1
